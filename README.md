@@ -2,12 +2,11 @@
 
 This is the backend API for an E-Library Management Application built using **Node.js**, **Express**, and **MongoDB**. The API handles user authentication (using JWT), book CRUD operations, and book borrowing/return functionality.
 
--Features
-
-- **User Authentication**: JWT-based authentication for registration and login.
-- **Book Management**: CRUD operations for managing books in the library.
-- **Borrow/Return Books**: Users can borrow and return books.
-- **Error Handling**: Robust error handling for invalid requests and server errors.
+- Features
+  - **User Authentication**: JWT-based authentication for registration and login.
+  - **Book Management**: CRUD operations for managing books in the library.
+  - **Borrow/Return Books**: Users can borrow and return books.
+  - **Error Handling**: Robust error handling for invalid requests and server errors.
 
 - Environment Variables
   - PORT=3000
